@@ -1,0 +1,41 @@
+Program 1. Full pyramid
+
+   *
+ *   * 
+*  *  *
+
+Program 2. Inverted pyramid
+* *
+ *
+
+Program 3: diamond
+
+
+Program 4: Hollow pyramid 
+
+Program 5 : Inverted Pyramid hollow
+
+
+
+Program 6 : Hollow Diamond
+
+Program 7: Mix Pyramid
+
+
+
+Program 8 : Fancy 12 pattern
+1
+2 * 2
+3 * 3 * 3
+
+
+Program 9 : Full Fancy 12 pattern
+1
+2 * 2
+1
+
+
+Program 10 : 
+A
+ABA
+ABCBA
