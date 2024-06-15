@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "@prettier/plugin-php": "0.14.3",
+        "ostream": "cpp"
+    }
+}
